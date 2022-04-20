@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Bootstrap-3"
+		},
+		{
+			"path": "..\\20.04.22-1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "20.04.22-1"
+	}
+}
